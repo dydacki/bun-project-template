@@ -1,4 +1,4 @@
-# nail-picture-cleaner
+# bun-project-template
 
 To install dependencies:
 
