@@ -1,0 +1,19 @@
+{
+  "name": "bun-project-templatebun-project-templatebun",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "start": "bun run index.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.1.14",
+    "prettier": "^3.4.2",
+    "tsc": "^2.0.4"
+  },
+  "peerDependencies": {
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
